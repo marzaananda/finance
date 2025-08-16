@@ -50,4 +50,3 @@ vite.config.js
 - Kategori ada di `TransactionForm.jsx` (`kategoriMap`). Silakan ubah sesuai kebutuhan.
 - Skema database di `db.js`. Jika berubah, tingkatkan `db.version(...)`.
 
-Selamat membangun! 🚀
